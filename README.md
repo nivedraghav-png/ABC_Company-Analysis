@@ -14,9 +14,9 @@ This project analyses the ABC Company employee dataset supplied for the Python M
 ABC_Company_Employee_Analysis/
 ├── data/
 │   ├── ABC Company Dataset.csv
-│   └── ABC_Employees_Cleaned.csv
+│   └── cleaned_dataset.csv
 ├── notebooks/
-│   └── Employee_Analysis.ipynb
+│   └── M1EndProjectABC_Company.ipynb
 ├── visualizations/
 │   ├── 01_team_distribution.png
 │   ├── 02_position_distribution.png
